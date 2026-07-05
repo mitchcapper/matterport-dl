@@ -1,5 +1,5 @@
 # matterport-dl
-A tool to download/archive [Matterport](https://matterport.com) digital twin virtual tours.  Supports most matterport virtual tour links ( ie https://my.matterport.com/show/?m=roWLLMMmPL8 ). This project is not in any way associated with or supported by Matterport Inc in any way all relevant trademarks and rights are reserve Matterport Inc.
+A tool to download/archive [Matterport](https://matterport.com) digital twin virtual tours.  Supports most matterport virtual tour links ( ie https://my.matterport.com/show/?m=roWLLMMmPL8 ). This project is not in any way associated with or supported by Matterport Inc. All relevant trademarks and rights are reserved to Matterport Inc.
 
 See [CHANGELOG.md](CHANGELOG.md) for changes and [DEVELOPERS.md](DEVELOPERS.md) for some developer notes.
 
